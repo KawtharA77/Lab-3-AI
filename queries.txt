@@ -1,0 +1,23 @@
+2 ?- father(abdulaziz, noor).
+true.
+
+3 ?- father(salem, yara).
+true.
+
+4 ?- mother(fatimah, maria).
+true.
+
+5 ?- mother(noor, ali).
+true.
+
+6 ?- sister(maria, noor).
+true .
+
+7 ?- sister(layan, majed).
+true.
+
+8 ?- brother(mohammed, salem).
+true .
+
+9 ?- brother(ali, jood).
+true.
